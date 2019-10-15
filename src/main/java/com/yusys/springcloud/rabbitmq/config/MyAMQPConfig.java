@@ -6,6 +6,8 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
 /**
+ * 将对象转换成json
+ *
  * Created by huyang on 2019/10/15.
  */
 @Configuration
